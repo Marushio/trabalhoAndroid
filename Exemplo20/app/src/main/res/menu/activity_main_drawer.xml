@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_list_tarefas"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Tarefas Cadastradas" />
+        <item
+            android:id="@+id/nav_cad_tarefas"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Criar Nova Tarefa" />
+
+
+    </group>
+
+
+</menu>
